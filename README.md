@@ -17,7 +17,7 @@ The process involved:
 
 ---
 
-### 🛠️ Prerequisites
+### Prerequisites
 
 To run and follow along with this project, you should have a basic understanding of Python programming and data analysis concepts.
 
